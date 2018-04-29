@@ -1,0 +1,11 @@
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\bin\Debug\netcoreapp2.0\AbstractFactory.deps.json
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\bin\Debug\netcoreapp2.0\AbstractFactory.runtimeconfig.json
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\bin\Debug\netcoreapp2.0\AbstractFactory.runtimeconfig.dev.json
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\bin\Debug\netcoreapp2.0\AbstractFactory.dll
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\bin\Debug\netcoreapp2.0\AbstractFactory.pdb
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\obj\Debug\netcoreapp2.0\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\obj\Debug\netcoreapp2.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfo.cs
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\obj\Debug\netcoreapp2.0\AbstractFactory.dll
+C:\Projects\DesignPatterns\Creational\AbstractFactory\Default\obj\Debug\netcoreapp2.0\AbstractFactory.pdb
