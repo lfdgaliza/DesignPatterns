@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DesignPatterns\\Creational\\AbstractFactory\\AbstractFactory.csproj",
-      "projectName": "AbstractFactory",
-      "projectPath": "C:\\Projects\\DesignPatterns\\Creational\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "C:\\Projects\\DesignPatterns\\Creational\\AbstractFactory\\Di\\AbstractFactoryDi.csproj",
+      "projectName": "AbstractFactoryDi",
+      "projectPath": "C:\\Projects\\DesignPatterns\\Creational\\AbstractFactory\\Di\\AbstractFactoryDi.csproj",
       "packagesPath": "C:\\Users\\lfdga\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DesignPatterns\\Creational\\AbstractFactory\\obj\\",
+      "outputPath": "C:\\Projects\\DesignPatterns\\Creational\\AbstractFactory\\Di\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
