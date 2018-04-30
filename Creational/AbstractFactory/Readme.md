@@ -1,2 +1,6 @@
-Default: ready
-Di: Under construction
+Only the default demonstration is ready.
+[Take a look](Default)
+
+[Back](../)
+|
+[Root](/)
