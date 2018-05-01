@@ -1,4 +1,6 @@
 # Singleton Pattern
+## UML Diagram
+![Singleton diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Singleton_UML_class_diagram.svg/500px-Singleton_UML_class_diagram.svg.png)
 ## Why is it good
 * Ensures that the class has only one instance  
 ## Why is it bad
@@ -16,3 +18,4 @@ In this case, this can be used when it is necessary without compromising the app
 This project has two implementations
 * Default (default implementation of Singleton)
 * Di (using the built-in dotnet core container)
+    * Yet under construction
