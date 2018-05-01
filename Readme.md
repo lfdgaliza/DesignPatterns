@@ -4,3 +4,4 @@ It is under construction.
 ## What is already ready
 1. Creational
     * [Abstract Factory](Creational/AbstractFactory)
+    * [Singleton](Creational/Singleton)
