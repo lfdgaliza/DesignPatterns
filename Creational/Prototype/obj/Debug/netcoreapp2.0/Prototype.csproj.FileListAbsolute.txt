@@ -1,0 +1,10 @@
+C:\Projects\DesignPatterns\Creational\Prototype\bin\Debug\netcoreapp2.0\Prototype.deps.json
+C:\Projects\DesignPatterns\Creational\Prototype\bin\Debug\netcoreapp2.0\Prototype.runtimeconfig.json
+C:\Projects\DesignPatterns\Creational\Prototype\bin\Debug\netcoreapp2.0\Prototype.runtimeconfig.dev.json
+C:\Projects\DesignPatterns\Creational\Prototype\bin\Debug\netcoreapp2.0\Prototype.dll
+C:\Projects\DesignPatterns\Creational\Prototype\bin\Debug\netcoreapp2.0\Prototype.pdb
+C:\Projects\DesignPatterns\Creational\Prototype\obj\Debug\netcoreapp2.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Projects\DesignPatterns\Creational\Prototype\obj\Debug\netcoreapp2.0\Prototype.AssemblyInfoInputs.cache
+C:\Projects\DesignPatterns\Creational\Prototype\obj\Debug\netcoreapp2.0\Prototype.AssemblyInfo.cs
+C:\Projects\DesignPatterns\Creational\Prototype\obj\Debug\netcoreapp2.0\Prototype.dll
+C:\Projects\DesignPatterns\Creational\Prototype\obj\Debug\netcoreapp2.0\Prototype.pdb
