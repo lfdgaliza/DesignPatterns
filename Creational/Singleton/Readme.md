@@ -1,6 +1,7 @@
 # Singleton Pattern
 ## UML Diagram
 ![Singleton diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Singleton_UML_class_diagram.svg/500px-Singleton_UML_class_diagram.svg.png)
+> Img source: Wikipedia
 ## Why is it good
 * Ensures that the class has only one instance  
 ## Why is it bad
