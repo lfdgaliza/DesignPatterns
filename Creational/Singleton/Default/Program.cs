@@ -1,4 +1,5 @@
 ﻿using System;
+using Default;
 
 namespace Singleton
 {
@@ -6,7 +7,10 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var myBusiness = MyBusiness.Instance;
+            Console.WriteLine(myBusiness.SomeString);
         }
     }
+
+    
 }
