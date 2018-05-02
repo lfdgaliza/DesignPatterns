@@ -6,3 +6,4 @@ It is under construction.
     * [Abstract Factory](Creational/AbstractFactory)
     * [Singleton](Creational/Singleton)
     * [Prototype](Creational/Prototype)
+    * [Factory Method](Creational/FactoryMethod)
