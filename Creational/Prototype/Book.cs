@@ -16,6 +16,11 @@ namespace Prototype
         }
 
         #region Prototype
+        /// <remarks>
+        /// Of course that, for now, we have only value types and this kind
+        /// of approach for the deep clone is not necessary. But it is here
+        /// just for a matter of example and pattern.
+        /// </remarks>
         public Book DeepClone() => new Book(this.Id, this.Name);
         object ICloneable.Clone() => this.MemberwiseClone();
         #endregion
