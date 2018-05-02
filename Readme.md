@@ -5,3 +5,4 @@ It is under construction.
 1. Creational
     * [Abstract Factory](Creational/AbstractFactory)
     * [Singleton](Creational/Singleton)
+    * [Prototype](Creational/Prototype)

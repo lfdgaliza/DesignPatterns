@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Prototype
 {
@@ -6,7 +7,19 @@ namespace Prototype
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var bookService = new BookService();
+
+            var defaultBookShop = new BookShop("Default shop");
+            defaultBookShop.Books = new BookService().GetDefaultBooks();
+
+            var places = new string[] { "Adelaide St", "George St", "Stevens St" };
+            var bookShops = new List<BookShop>();
+
+            foreach (var place in places)
+            {
+                var bookShop = defaultBookShop.DeepClone();
+                Console.WriteLine(bookShop);
+            }
         }
     }
 }
