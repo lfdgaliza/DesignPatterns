@@ -16,3 +16,6 @@ Of course that if you have to do it several times, maybe you can consider using 
 Flyweight is structural, so it is a different approach.
 
 Here in this project, I will give focus to the Prototype DP. 
+
+# An image to remember
+![Dolly the Sheep](../../.aitr/dolly.jpg)
