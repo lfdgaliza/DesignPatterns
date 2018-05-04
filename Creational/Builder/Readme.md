@@ -20,6 +20,9 @@ So, in this source, you will find a complex solution for a simple problem for le
 
 > Img source: Wikipedia
 
+## SOLID
+You can find this a great example of open/closed principle =)
+
 ## Players in this code
 * Abstract Builder: IMobilePhoneBuilder
 * Concrete Builders
