@@ -13,7 +13,7 @@ I don't know whether this expression was sometimes used or not for someone, but 
 
 Fluent, in another hand, is more like a Facade where you can join different objects in a more readable way. Like Entity Framework, for example! =)
 
-So, in this source you will find a compelxo solution for a simple problem for rearning reasons. The goal here is to make you understand how to implement this pattern for when you need it in a real complex situation.
+So, in this source, you will find a complex solution for a simple problem for learning reasons. The goal here is to make you understand how to implement this pattern for when you need it in a real complex situation.
 
 # An image to remember
 ![Binf](/.aitr/binf.png)
