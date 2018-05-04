@@ -7,3 +7,4 @@ It is under construction.
     * [Singleton](Creational/Singleton)
     * [Prototype](Creational/Prototype)
     * [Factory Method](Creational/FactoryMethod)
+    * [Builder](Creational/Builder)
