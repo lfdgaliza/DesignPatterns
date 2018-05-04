@@ -15,6 +15,18 @@ Fluent, in another hand, is more like a Facade where you can join different obje
 
 So, in this source, you will find a complex solution for a simple problem for learning reasons. The goal here is to make you understand how to implement this pattern for when you need it in a real complex situation.
 
-# An image to remember
+## UML Diagram
+![UML](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Builder_UML_class_diagram.svg/1400px-Builder_UML_class_diagram.svg.png)
+
+## Players in this code
+* Abstract Builder: IMobilePhoneBuilder
+* Concrete Builders
+    * IphoneXBuilder
+    * Redmi3ProBuilder
+    * S9Builder
+* Director: MobilePhoneDirector
+* Product: MobilePhone
+
+## An image to remember
 ![Binf](/.aitr/binf.png)
 > Ok... I know... This is not exactly an image, but you've got the point.
