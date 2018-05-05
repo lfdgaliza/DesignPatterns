@@ -8,3 +8,5 @@ It is under construction.
     * [Prototype](Creational/Prototype)
     * [Factory Method](Creational/FactoryMethod)
     * [Builder](Creational/Builder)
+2. Structural
+    * [Adapter](Structural/Adapter)
