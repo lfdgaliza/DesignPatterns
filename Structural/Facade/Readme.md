@@ -2,6 +2,7 @@
 I like seeing some aeroplane videos and, in one of these days, I saw a pilot saying that piloting an A380 is pretty much the same as piloting an a318.
 
 Just for comparison:
+
 ![a380 vs a318](/img/comparison.jpg)
 
 And the reason is exactly what the Facade pattern proposes: To give a simplified interface to complex algorithms.
