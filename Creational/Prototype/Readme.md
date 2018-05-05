@@ -18,5 +18,5 @@ Flyweight is structural, so it is a different approach.
 Here in this project, I will give focus to the Prototype DP. 
 
 # An image to remember
-![Dolly the Sheep](/.aitr/dolly.jpg)
+![Dolly the Sheep](/img/dolly.jpg)
 >Dolly the Sheep

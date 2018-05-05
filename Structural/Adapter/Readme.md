@@ -7,4 +7,4 @@ Also known as "Wrapper", Adapter is a pattern which enables us to switch between
 > Img source: Wikipedia
 
 ## An image to remember
-![Adapter](/.aitr/adapter.jpg)
+![Adapter](/img/adapter.jpg)

@@ -33,5 +33,5 @@ You can find this a great example of open/closed principle =)
 * Product: MobilePhone
 
 ## An image to remember
-![Binf](/.aitr/binf.png)
+![Binf](/img/binf.png)
 > Ok... I know... This is not exactly an image, but you've got the point.

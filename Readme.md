@@ -10,3 +10,4 @@ It is under construction.
     * [Builder](Creational/Builder)
 2. Structural
     * [Adapter](Structural/Adapter)
+    * [Facade](Structural/Facade)
