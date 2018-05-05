@@ -6,14 +6,11 @@ namespace Facade
     {
         static void Main(string[] args)
         {
-            var _cockpit = new CockpitFacade();
+            var _pilot = new PilotFacade();
             
-            Console.WriteLine(_cockpit.PrepareForTakeOff());
-            Console.WriteLine();
-            
-            _cockpit.TakeOff();
+            _pilot.TakeOffThisAeroplane();
 
-            Console.WriteLine("\n Some random passenger: OMG, what was this sound?");            
+            Console.WriteLine("\nSome random passenger: OMG, what was this sound?");            
         }
     }
 }

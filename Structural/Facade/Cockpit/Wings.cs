@@ -1,6 +1,6 @@
 using System;
 
-namespace Facade.Business
+namespace Facade.Cockpit
 {
     public class Wings
     {

@@ -1,15 +1,15 @@
-using Facade.Business;
+using Facade.Cockpit;
 
 namespace Facade
 {
-    public class CockpitFacade
+    public class PilotFacade
     {
         private Cabin _cabin;
         private Engine _engine;
         private Wings _wings;
         private PublicAnnouncement _pa;
 
-        public CockpitFacade()
+        public PilotFacade()
         {
             _cabin = new Cabin();
             _engine = new Engine();
@@ -17,14 +17,9 @@ namespace Facade
             _pa = new PublicAnnouncement();
         }
 
-        public string PrepareForTakeOff()
+        public void TakeOffThisAeroplane()
         {
-            _wings.DoSomething();
-            return _pa.GetAnnouncementForTakeOff();
-        }
-
-        public void TakeOff()
-        {
+            _pa.GetAnnouncementForTakeOff();
             _wings.SetFlaps(15);
             _wings.SetSlats(20);
             _wings.DoSomething();

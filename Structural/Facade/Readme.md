@@ -11,6 +11,9 @@ The cockpit from both aeroplanes are too similar because they share the same phi
 
 > Of course, pilots have a sense of how things work, but this is not the case here.
 
+Although the cockpit is a good Facade for pilots, it is not for us.  
+With this in mind, I chose to make a **PilotFacade** in order to "use him" to take off the aeroplane =)
+
 ## UML
 ![UML](https://upload.wikimedia.org/wikipedia/commons/9/96/W3sDesign_Facade_Design_Pattern_UML.jpg)
 
