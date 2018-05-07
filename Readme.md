@@ -11,3 +11,4 @@ It is under construction.
 2. Structural
     * [Adapter](Structural/Adapter)
     * [Facade](Structural/Facade)
+    * [Bridge](Structural/Bridge)
