@@ -12,3 +12,4 @@ It is under construction.
     * [Adapter](Structural/Adapter)
     * [Facade](Structural/Facade)
     * [Bridge](Structural/Bridge)
+    * [Composite](Structural/Composite)
