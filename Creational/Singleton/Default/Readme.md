@@ -1,1 +1,0 @@
-Default implementation of Singleton
