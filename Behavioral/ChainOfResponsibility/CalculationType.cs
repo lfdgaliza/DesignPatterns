@@ -4,7 +4,8 @@ namespace ChainOfResponsibility
     {
         SUM,
         SUBTRACTION,
-        MULTIBLICATION,
-        DIVISION
+        MULTIPLICATION,
+        DIVISION,
+        SOMETHING_ELSE
     }
 }

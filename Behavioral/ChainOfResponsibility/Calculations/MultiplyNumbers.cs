@@ -4,10 +4,10 @@ namespace ChainOfResponsibility.Calculations
     {
         public override double Calculate(Numbers numbers)
         {
-            if (numbers.CalculationType == CalculationType.MULTIBLICATION)
+            if (numbers.CalculationType == CalculationType.MULTIPLICATION)
                 return numbers.Number1 * numbers.Number2;
             
-            return (_successor ?? CalculationChainBase.Null).Calculate(numbers);
+            return _successor.Calculate(numbers);
         }
     }
 }

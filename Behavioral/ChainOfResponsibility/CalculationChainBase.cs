@@ -2,7 +2,7 @@ namespace ChainOfResponsibility
 {
     public abstract class CalculationChainBase
     {
-        protected CalculationChainBase _successor;
+        protected CalculationChainBase _successor = CalculationChainBase.Null;
         public void SetSucessor(CalculationChainBase successor) => _successor = successor;
 
         public abstract double Calculate(Numbers numbers);
@@ -12,6 +12,7 @@ namespace ChainOfResponsibility
 
         private class NullCalculationChainBase : CalculationChainBase
         {
+            // What do you want to do when there is no more CalculationChain item?
             public override double Calculate(Numbers numbers) => 0;
         }
         #endregion

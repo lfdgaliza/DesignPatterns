@@ -17,7 +17,7 @@ namespace ChainOfResponsibility
             numbers = new Numbers(2, 4, CalculationType.SUBTRACTION);
             Console.WriteLine($"2 - 4 = {chain.Calculate(numbers)}");
 
-            numbers = new Numbers(2, 4, CalculationType.MULTIBLICATION);
+            numbers = new Numbers(2, 4, CalculationType.MULTIPLICATION);
             Console.WriteLine($"2 * 4 = {chain.Calculate(numbers)}");
 
             numbers = new Numbers(2, 4, CalculationType.DIVISION);
@@ -35,6 +35,10 @@ namespace ChainOfResponsibility
             {
                 Console.WriteLine(ex.Message);
             }
+
+            // Showing the null object in action
+            numbers = new Numbers(2, 4, CalculationType.SOMETHING_ELSE);
+            Console.WriteLine($"2 ? 4 = {chain.Calculate(numbers)}");
         }
 
         private static CalculationChainBase CreateChain()

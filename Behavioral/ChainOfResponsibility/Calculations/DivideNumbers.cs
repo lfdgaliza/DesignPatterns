@@ -9,7 +9,7 @@ namespace ChainOfResponsibility.Calculations
             if (numbers.CalculationType == CalculationType.DIVISION)
                 return MakeDivision(numbers);
 
-            return (_successor ?? CalculationChainBase.Null).Calculate(numbers);
+            return _successor.Calculate(numbers);
         }
 
         private double MakeDivision(Numbers numbers)
