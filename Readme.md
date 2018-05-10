@@ -15,3 +15,4 @@ It is under construction.
     * [Composite](Structural/Composite)
 3. Behavioral
     * [Strategy](Behavioral/Strategy)
+    * [ChainOfResponsibility](Behavioral/ChainOfResponsibility)
