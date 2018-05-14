@@ -17,3 +17,4 @@ It is under construction.
 3. Behavioral
     * [Strategy](Behavioral/Strategy)
     * [Chain Of Responsibility](Behavioral/ChainOfResponsibility)
+    * [Template Method](Behavioral/TemplateMethod)
