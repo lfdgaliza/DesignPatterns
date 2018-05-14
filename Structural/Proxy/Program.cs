@@ -6,7 +6,16 @@ namespace Proxy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person person;
+            IBeer beer;
+
+            person = new Person(DateTime.Now.Year - 17);
+            beer = new BeerProxy(person);
+            beer.Drink();
+
+            person = new Person(DateTime.Now.Year - 18);
+            beer = new BeerProxy(person);
+            beer.Drink();
         }
     }
 }
