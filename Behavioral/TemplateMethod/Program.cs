@@ -6,7 +6,16 @@ namespace TemplateMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SocialNetwork network;
+
+            network = new Twitter("handsomeguy", "pwd");
+            network.Post("Hello Twitter!");
+
+            Console.WriteLine("**************************");
+
+            network = new Orkut("handsomeguy", "pwd");
+            network.Post("Hello Orkut!");
+
         }
     }
 }
