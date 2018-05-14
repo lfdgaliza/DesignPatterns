@@ -13,6 +13,7 @@ It is under construction.
     * [Facade](Structural/Facade)
     * [Bridge](Structural/Bridge)
     * [Composite](Structural/Composite)
+    * [Proxy](Structural/Proxy)
 3. Behavioral
     * [Strategy](Behavioral/Strategy)
     * [Chain Of Responsibility](Behavioral/ChainOfResponsibility)
