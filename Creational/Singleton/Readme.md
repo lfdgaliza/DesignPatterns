@@ -14,9 +14,3 @@ It can be used as a good strategy in some cases when configured as a kind of bin
 Dotnet core, for instance, has an option to bind an implementation of some interface as a singleton instance.
 
 In this case, this can be used when it is necessary without compromising the application structure.
-
-## Implementations
-This project has two implementations
-* Default (default implementation of Singleton)
-* Di (using the built-in dotnet core container)
-    * Yet under construction
