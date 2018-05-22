@@ -1,6 +1,7 @@
 # Observer
 
-Pulling:
-<iframe width="854" height="480" src="https://www.youtube.com/embed/basofea2UEs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Poolling:
+
+[![Poolling example](https://img.youtube.com/vi/basofea2UEs/0.jpg)](https://www.youtube.com/watch?v=basofea2UEs)
 
 > Description under construction...
