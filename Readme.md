@@ -18,3 +18,4 @@ It is under construction.
     * [Strategy](Behavioral/Strategy)
     * [Chain Of Responsibility](Behavioral/ChainOfResponsibility)
     * [Template Method](Behavioral/TemplateMethod)
+    * [Observer](Behavioral/Observer)
