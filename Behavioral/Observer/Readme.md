@@ -12,6 +12,10 @@ Of course, you can develop the entire pattern, but the dotnet already has some u
 
 Remember that the patterns are not an absolute rule. It is recommended that you use some well-known pattern into your code, but know the rules to know how to break them when needed, ok?
 
+## This example
+I tried to be as simple as I could because there is a lot of heavy examples on the internet.  
+In this code, you can find a provider (subject/observable) and the observers inside a folder called... guess what... yep! Observers.
+
 ## UML
 ![UML](https://upload.wikimedia.org/wikipedia/commons/0/01/W3sDesign_Observer_Design_Pattern_UML.jpg)
 
